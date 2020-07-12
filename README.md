@@ -4,7 +4,7 @@ You have found my GH Profile and you are most welcome here. Feel free to look ar
 
 ## About Me
 
-I am a Full Stack Software Engineer currently working @ [Skyscanner]|(https://github.com/Skyscanner) on [Backpack](https://backpack.github.io/) our open source design system.
+I am a Full Stack Software Engineer currently working @ [Skyscanner](https://github.com/Skyscanner) on [Backpack](https://backpack.github.io/) our open source design system.
 
 ### Current languages
 
