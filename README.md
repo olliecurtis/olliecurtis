@@ -11,6 +11,7 @@ I am a Full Stack Software Engineer currently working @ [Skyscanner](https://git
   #### Front-end languages
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
   ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=%23CC6699)
   
 
@@ -30,7 +31,6 @@ I am a Full Stack Software Engineer currently working @ [Skyscanner](https://git
   
   ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
   ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=swift)
-  ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 
 ### My tools
   
