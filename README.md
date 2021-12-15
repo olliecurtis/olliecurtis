@@ -14,19 +14,20 @@ I am a Full Stack Software Engineer currently working @ [Skyscanner](https://git
   ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
   ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass&logoColor=%23CC6699)
   
-
   #### Back-end languages
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
   #### Tooling
+  ![Webpack](https://img.shields.io/badge/-webpack-black?style=flat-square&logo=webpack)
+  ![Next.JS](https://img.shields.io/badge/-next.js-black?style=flat-square&logo=next.js)
   ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+  ![Gulp](https://img.shields.io/badge/-gulp-black?style=flat-square&logo=gulp)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![Github Actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
   ![Travis](https://img.shields.io/badge/-Travis-black?style=flat-square&logo=travis)
   
-
 ### Languages I am learning
   
   ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
