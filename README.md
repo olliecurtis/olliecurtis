@@ -4,7 +4,7 @@ You have found my GH Profile and you are most welcome here. Feel free to look ar
 
 ## About Me
 
-I am a Full Stack Software Engineer currently working @ [Skyscanner](https://github.com/Skyscanner) on [Backpack](https://backpack.github.io/) our open source design system.
+I am a Full Stack Software Engineer currently working @ [Skyscanner](https://github.com/Skyscanner).
 
 ## Tech Stack
 
@@ -18,11 +18,8 @@ I am a Full Stack Software Engineer currently working @ [Skyscanner](https://git
   #### Backend
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-  
-  ### Mobile
-  ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 
-  #### Tooling
+  #### Development Tooling
   ![Webpack](https://img.shields.io/badge/-webpack-black?style=flat-square&logo=webpack)
   ![Next.JS](https://img.shields.io/badge/-next.js-black?style=flat-square&logo=next.js)
   ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
@@ -32,7 +29,6 @@ I am a Full Stack Software Engineer currently working @ [Skyscanner](https://git
   ### Ops
   ![Github Actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-black?style=flat-square&logo=travis)
   
 ### Languages I am learning
   
@@ -43,4 +39,6 @@ I am a Full Stack Software Engineer currently working @ [Skyscanner](https://git
   
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=%23007ACC)
-  ![iTerm](https://img.shields.io/badge/-iTerm-black?style=flat-square&logo=iTerm)
+  ![Warp](https://img.shields.io/badge/-Warp-black?style=flat-square&logo=Warp)
+  ![Claude Code](https://img.shields.io/badge/-Claude-black?style=flat-square&logo=Claude)
+  ![Opencode](https://img.shields.io/badge/-opencode-black?style=flat-square&logo=opencode)
